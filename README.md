@@ -1,1 +1,2 @@
 # ST-punto-banco
+This is a Punto Banco game built in Java that uses a doubly linked list to create a deck of card objects. This deck of card objects can be shuffled and dealt to players hands which are created using singly linked lists. the game is played by 2 players flipping the top card from their hand and whoevers is higher get a point. The user can select how many card to deal in a hand and can also see a demo of the shuffling operation
